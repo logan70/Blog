@@ -182,7 +182,9 @@ function GetGlobalBingingValue(name) {
 
 # 系列文章
 
-深入ECMAScript系列目录地址：https://github.com/logan70/Blog
+准备将之前写的部分深入ECMAScript文章重写，加深自己理解，使内容更有干货，目录结构也更合理。
+
+[深入ECMAScript系列目录地址（持续更新中...）](https://github.com/logan70/Blog)
 
 欢迎前往阅读系列文章，如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。
 

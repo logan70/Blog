@@ -12,3 +12,4 @@
 
 1. [深入ECMAScript系列（一）：词法环境](https://github.com/logan70/Blog/issues/1)
 2. [深入ECMAScript系列（二）：执行上下文](https://github.com/logan70/Blog/issues/2)
+3. [深入ECMAScript系列（三）：闭包](https://github.com/logan70/Blog/issues/3)

@@ -233,31 +233,57 @@ setTimeout(arrowFn, 0) // 输出：20
 
 # 六、小练习
 
+例子来自南波的[JavaScript之例题中彻底理解this](https://juejin.im/post/5bd5509851882543e82f5564)
+
+
 ```js
-window.a = 'global'
-function foo() {
-    console.log(this.a)
-}
+// 例1
+var name = 'window'
 
-let obj = {
-    a: 'obj',
-    foo,
-    bar() {
-        console.log(this.a)
-        foo()
-        this.foo()
-        ;(function() {
-            console.log(this.a)
-        })()
+var person1 = {
+  name: 'person1',
+  show1: function () {
+    console.log(this.name)
+  },
+  show2: () => console.log(this.name),
+  show3: function () {
+    return function () {
+      console.log(this.name)
     }
+  },
+  show4: function () {
+    return () => console.log(this.name)
+  }
 }
+var person2 = { name: 'person2' }
 
-obj.bar() // ?
+person1.show1()  // ？
+person1.show1.call(person2)  // ？
 
-setTimeout(obj.bar, 0) // ?
+person1.show2()  // ？
+person1.show2.call(person2)  // ？
+
+person1.show3()()  // ？
+person1.show3().call(person2)  // ？
+person1.show3.call(person2)()  // ？
+
+person1.show4()()  // ？
+person1.show4().call(person2)  // ？
+person1.show4.call(person2)()  // ？
 ```
 
-答案就不放了，大家可自己在控制台试试。
+选中下方查看答案：
+
+<p style="color:#fff;">person1 // 函数作为对象方法调用，this指向对象</p>
+<p style="color:#fff;">person2 // 使用call间接调用函数，this指向传入的person2</p>
+<p style="color:#fff;">window  // 箭头函数无this绑定，在全局环境找到this，指向window</p>
+<p style="color:#fff;">window  // 间接调用改变this指向对箭头函数无效</p>
+<p style="color:#fff;">window  // person1.show3()返回普通函数，相当于普通函数调用，this指向window</p>
+<p style="color:#fff;">person2 // 使用call间接调用函数，this指向传入的person2</p>
+<p style="color:#fff;">window  // person1.show3.call(person2)仍然返回普通函数</p>
+<p style="color:#fff;">person1 // person1.show4调用对象方法，this指向person1，返回箭头函数，this在person1.show4调用时的词法环境中找到，指向person1</p>
+<p style="color:#fff;">person1  // 间接调用改变this指向对箭头函数无效</p>
+<p style="color:#fff;">person2  // 改变了person1.show4调用时this的指向，所以返回的箭头函数的内this解析改变</p>
 
 # 系列文章
 

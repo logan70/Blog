@@ -8,9 +8,9 @@
 
 [掘金主页](https://juejin.im/user/5b722e476fb9a009d419cfde)
 
-## 深入ECMAScript系列目录
+## 深入JavaScript系列目录
 
-1. [深入ECMAScript系列（一）：词法环境](https://github.com/logan70/Blog/issues/1)
-2. [深入ECMAScript系列（二）：执行上下文](https://github.com/logan70/Blog/issues/2)
-3. [深入ECMAScript系列（三）：闭包](https://github.com/logan70/Blog/issues/3)
-4. [深入ECMAScript系列（四）：彻底搞懂this](https://github.com/logan70/Blog/issues/4)
+1. [深入JavaScript系列（一）：词法环境](https://github.com/logan70/Blog/issues/1)
+2. [深入JavaScript系列（二）：执行上下文](https://github.com/logan70/Blog/issues/2)
+3. [深入JavaScript系列（三）：闭包](https://github.com/logan70/Blog/issues/3)
+4. [深入JavaScript系列（四）：彻底搞懂this](https://github.com/logan70/Blog/issues/4)

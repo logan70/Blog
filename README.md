@@ -14,3 +14,4 @@
 2. [深入JavaScript系列（二）：执行上下文](https://github.com/logan70/Blog/issues/2)
 3. [深入JavaScript系列（三）：闭包](https://github.com/logan70/Blog/issues/3)
 4. [深入JavaScript系列（四）：彻底搞懂this](https://github.com/logan70/Blog/issues/4)
+4. [深入JavaScript系列（五）：JS与内存](https://github.com/logan70/Blog/issues/5)

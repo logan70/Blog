@@ -15,3 +15,7 @@
 3. [深入JavaScript系列（三）：闭包](https://github.com/logan70/Blog/issues/3)
 4. [深入JavaScript系列（四）：彻底搞懂this](https://github.com/logan70/Blog/issues/4)
 4. [深入JavaScript系列（五）：JS与内存](https://github.com/logan70/Blog/issues/5)
+
+## 实战系列目录
+
+1. [从零到一开发你的专属JavaScript库](https://github.com/logan70/Blog/issues/7)

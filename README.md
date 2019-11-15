@@ -1,4 +1,4 @@
-如果有疑问或者发现错误，可以在相应的 issues 进行提问或勘误。
+如有疑问或发现错误，可以在相应的 issue 进行提问或勘误。
 
 如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。
 
@@ -6,12 +6,14 @@
 
 依据掘金文章[《一名【合格】前端工程师的自检清单》](https://juejin.im/post/5cc1da82f265da036023b628)为大纲进行整理。
 
-整理动机是面试前对自己知识体系进行总结复习，所以文章偏简洁，如有疑惑可在issue下方评论探讨。
+整理动机是面试前对自己知识体系进行总结复习，所以文章偏简洁，如有参考文章会附于文末。
 
 ### JavaScript基础
 
 1. [变量和类型 - JavaScript 数据类型](https://github.com/logan70/Blog/issues/8)
 2. [变量和类型 - 对象的底层数据结构](https://github.com/logan70/Blog/issues/9)
+3. [变量和类型 - Symbol的应用及实现](https://github.com/logan70/Blog/issues/10)
+4. [变量和类型 - 变量在内存中的具体存储形式](https://github.com/logan70/Blog/issues/11)
 
 ----------------------------
 

@@ -14,6 +14,7 @@
 2. [变量和类型 - 对象的底层数据结构](https://github.com/logan70/Blog/issues/9)
 3. [变量和类型 - Symbol的应用及实现](https://github.com/logan70/Blog/issues/10)
 4. [变量和类型 - 变量在内存中的具体存储形式](https://github.com/logan70/Blog/issues/11)
+5. [变量和类型 - 基本类型的装箱与拆箱](https://github.com/logan70/Blog/issues/12)
 
 ----------------------------
 

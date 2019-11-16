@@ -15,6 +15,8 @@
 3. [变量和类型 - Symbol的应用及实现](https://github.com/logan70/Blog/issues/10)
 4. [变量和类型 - 变量在内存中的具体存储形式](https://github.com/logan70/Blog/issues/11)
 5. [变量和类型 - 基本类型的装箱与拆箱](https://github.com/logan70/Blog/issues/12)
+6. [变量和类型 - Null 与 Undefined](https://github.com/logan70/Blog/issues/13)
+7. [变量和类型 - 判断JavaScript数据类型](https://github.com/logan70/Blog/issues/14)
 
 ----------------------------
 

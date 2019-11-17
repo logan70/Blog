@@ -17,6 +17,7 @@
 5. [变量和类型 - 基本类型的装箱与拆箱](https://github.com/logan70/Blog/issues/12)
 6. [变量和类型 - Null 与 Undefined](https://github.com/logan70/Blog/issues/13)
 7. [变量和类型 - 判断JavaScript数据类型](https://github.com/logan70/Blog/issues/14)
+8. [变量和类型 - 隐式类型转换](https://github.com/logan70/Blog/issues/15)
 
 ----------------------------
 

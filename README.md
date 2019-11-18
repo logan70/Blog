@@ -18,6 +18,7 @@
 6. [变量和类型 - Null 与 Undefined](https://github.com/logan70/Blog/issues/13)
 7. [变量和类型 - 判断JavaScript数据类型](https://github.com/logan70/Blog/issues/14)
 8. [变量和类型 - 隐式类型转换](https://github.com/logan70/Blog/issues/15)
+9. [变量和类型 - 数字精度丢失(0.1 + 0.2 = 0.30000000000000004)](https://github.com/logan70/Blog/issues/16)
 
 ----------------------------
 

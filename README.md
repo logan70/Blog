@@ -10,26 +10,27 @@
 
 ### JavaScript基础
 
-1. [原型和原型链 - 原型及JavaScript中的原型规则](https://github.com/logan70/Blog/issues/17)
-1. [变量和类型 - 数字精度丢失(0.1 + 0.2 = 0.30000000000000004)](https://github.com/logan70/Blog/issues/16)
-1. [变量和类型 - 隐式类型转换](https://github.com/logan70/Blog/issues/15)
-1. [变量和类型 - 判断JavaScript数据类型](https://github.com/logan70/Blog/issues/14)
-1. [变量和类型 - Null 与 Undefined](https://github.com/logan70/Blog/issues/13)
-1. [变量和类型 - 基本类型的装箱与拆箱](https://github.com/logan70/Blog/issues/12)
-1. [变量和类型 - 变量在内存中的具体存储形式](https://github.com/logan70/Blog/issues/11)
-1. [变量和类型 - Symbol的应用及实现](https://github.com/logan70/Blog/issues/10)
-1. [变量和类型 - 对象的底层数据结构](https://github.com/logan70/Blog/issues/9)
 1. [变量和类型 - JavaScript 数据类型](https://github.com/logan70/Blog/issues/8)
+2. [变量和类型 - 对象的底层数据结构](https://github.com/logan70/Blog/issues/9)
+3. [变量和类型 - Symbol的应用及实现](https://github.com/logan70/Blog/issues/10)
+4. [变量和类型 - 变量在内存中的具体存储形式](https://github.com/logan70/Blog/issues/11)
+5. [变量和类型 - 基本类型的装箱与拆箱](https://github.com/logan70/Blog/issues/12)
+6. [变量和类型 - Null 与 Undefined](https://github.com/logan70/Blog/issues/13)
+7. [变量和类型 - 判断JavaScript数据类型](https://github.com/logan70/Blog/issues/14)
+8. [变量和类型 - 隐式类型转换](https://github.com/logan70/Blog/issues/15)
+9. [变量和类型 - 数字精度丢失(0.1 + 0.2 = 0.30000000000000004)](https://github.com/logan70/Blog/issues/16)
+10. [原型和原型链 - 原型及JavaScript中的原型规则](https://github.com/logan70/Blog/issues/17)
+11. [原型和原型链 - instanceof的底层实现原理及手动实现](https://github.com/logan70/Blog/issues/18)
 
 ----------------------------
 
 ## 深入JavaScript系列目录
 
-1. [深入JavaScript系列（五）：JS与内存](https://github.com/logan70/Blog/issues/5)
-1. [深入JavaScript系列（四）：彻底搞懂this](https://github.com/logan70/Blog/issues/4)
-1. [深入JavaScript系列（三）：闭包](https://github.com/logan70/Blog/issues/3)
-1. [深入JavaScript系列（二）：执行上下文](https://github.com/logan70/Blog/issues/2)
 1. [深入JavaScript系列（一）：词法环境](https://github.com/logan70/Blog/issues/1)
+2. [深入JavaScript系列（二）：执行上下文](https://github.com/logan70/Blog/issues/2)
+3. [深入JavaScript系列（三）：闭包](https://github.com/logan70/Blog/issues/3)
+4. [深入JavaScript系列（四）：彻底搞懂this](https://github.com/logan70/Blog/issues/4)
+5. [深入JavaScript系列（五）：JS与内存](https://github.com/logan70/Blog/issues/5)
 
 ----------------------------
 

@@ -21,6 +21,7 @@
 9. [变量和类型 - 数字精度丢失(0.1 + 0.2 = 0.30000000000000004)](https://github.com/logan70/Blog/issues/16)
 10. [原型和原型链 - 原型及JavaScript中的原型规则](https://github.com/logan70/Blog/issues/17)
 11. [原型和原型链 - instanceof的底层实现原理及手动实现](https://github.com/logan70/Blog/issues/18)
+12. [原型和原型链 - 实现继承的方式及优缺点](https://github.com/logan70/Blog/issues/19)
 
 ----------------------------
 

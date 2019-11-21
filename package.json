@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Logan's Blog",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logan70/Blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logan70/Blog/issues"
+  },
+  "homepage": "https://github.com/logan70/Blog#readme",
+  "devDependencies": {
+    "@octokit/rest": "^16.35.0",
+    "ejs": "^2.7.4"
+  }
+}

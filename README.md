@@ -4,7 +4,7 @@
 
 ## 掘金主页
 
-[掘金主页](https://juejin.im/user/5b722e476fb9a009d419cfde)
+[掘金主页 - Logan70](https://juejin.im/user/5b722e476fb9a009d419cfde)
 
 --------
 
@@ -12,6 +12,7 @@
 
 ### JavaScript基础
 
+- 2019/11/22 [原型与原型链 - new的详细过程及其模拟实现](https://github.com/logan70/Blog/issues/21)
 - 2019/11/22 [原型与原型链 - 开源项目中应用原型继承的案例](https://github.com/logan70/Blog/issues/20)
 - 2019/11/21 [原型与原型链 - 实现继承的方式及优缺点](https://github.com/logan70/Blog/issues/19)
 - 2019/11/20 [原型与原型链 - instanceof的底层实现原理及手动实现](https://github.com/logan70/Blog/issues/18)

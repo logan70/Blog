@@ -10,9 +10,13 @@ async function main() {
   console.log('Getting blogs...')
   const blogs = await getBlogs(getBlogsConfig)
   console.log('Get blogs successfully!')
+
+  console.log('Generating README.md...')
   const classifiedBlogs = classifyBlogs(blogs)
   await generateReadme(classifiedBlogs)
   console.log('Generate README.md successfully!')
+
+  console.log('Git commit & push...')
   const latestBlog = blogs.sort((a, b) => b.timeStamp - a.timeStamp)[0]
   const commitMsg = `add: add blog <${latestBlog.title}>`
   gitPush(commitMsg)

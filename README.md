@@ -32,6 +32,12 @@
 
 --------
 
+## 外文翻译
+
+- 2019/11/26 [【译】图解Event Loop](https://github.com/logan70/Blog/issues/25)
+
+--------
+
 ## 深入JavaScript系列
 
 - 2018/12/25 [深入JavaScript系列（六）：原型与原型链](https://github.com/logan70/Blog/issues/6)

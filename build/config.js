@@ -16,6 +16,10 @@ exports.seriesOrder = [
     ],
   },
   {
+    series: '外文翻译',
+    subSeriesArr: []
+  },
+  {
     series: '深入JavaScript系列',
     subSeriesArr: []
   },

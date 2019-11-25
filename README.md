@@ -12,6 +12,7 @@
 
 ### JavaScript基础
 
+- 2019/11/25 [作用域与闭包 - 词法作用域和动态作用域](https://github.com/logan70/Blog/issues/23)
 - 2019/11/24 [原型与原型链 - ES6 Class的底层实现原理](https://github.com/logan70/Blog/issues/22)
 - 2019/11/22 [原型与原型链 - new的详细过程及其模拟实现](https://github.com/logan70/Blog/issues/21)
 - 2019/11/22 [原型与原型链 - 开源项目中应用原型继承的案例](https://github.com/logan70/Blog/issues/20)

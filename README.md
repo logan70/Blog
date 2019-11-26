@@ -12,6 +12,7 @@
 
 ### JavaScript基础
 
+- 2019/11/26 [作用域与闭包 - JavaScript的执行上下文栈](https://github.com/logan70/Blog/issues/26)
 - 2019/11/25 [作用域与闭包 - JavaScript的作用域和作用域链](https://github.com/logan70/Blog/issues/24)
 - 2019/11/25 [作用域与闭包 - 词法作用域和动态作用域](https://github.com/logan70/Blog/issues/23)
 - 2019/11/24 [原型与原型链 - ES6 Class的底层实现原理](https://github.com/logan70/Blog/issues/22)
@@ -34,7 +35,7 @@
 
 ## 外文翻译
 
-- 2019/11/26 [【译】图解Event Loop](https://github.com/logan70/Blog/issues/25)
+- 2019/11/26 [[译] 图解Event Loop](https://github.com/logan70/Blog/issues/25)
 
 --------
 

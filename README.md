@@ -12,6 +12,7 @@
 
 ### JavaScript基础
 
+- 2019/11/28 [作用域与闭包 - 闭包的实现原理和作用](https://github.com/logan70/Blog/issues/28)
 - 2019/11/27 [作用域与闭包 - this的原理以及几种不同使用场景的取值](https://github.com/logan70/Blog/issues/27)
 - 2019/11/26 [作用域与闭包 - JavaScript的执行上下文栈](https://github.com/logan70/Blog/issues/26)
 - 2019/11/25 [作用域与闭包 - JavaScript的作用域和作用域链](https://github.com/logan70/Blog/issues/24)

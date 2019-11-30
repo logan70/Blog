@@ -10,6 +10,7 @@ async function main() {
   console.log('Getting blogs...')
   const blogs = await getBlogs(getBlogsConfig)
   console.log('Get blogs successfully!')
+  console.log(`Latest blog: ${blogs[0].title}`)
 
   console.log('Generating README.md...')
   const classifiedBlogs = classifyBlogs(blogs)

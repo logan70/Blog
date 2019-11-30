@@ -26,9 +26,3 @@ function getBlogListContent(blogs, isSub) {
     return title + blogDirectory + subContent
   }).join(isSub ? '\n\n' : br)
 }
-
-function getSeriesContent(series, list) {
-  const title = `## ${series}\n\n`
-  const blogListContent = list.map(({ url, title }, i) => `${i}. [${title}](${url})`).join('\n')
-  return br + title + blogListContent
-}

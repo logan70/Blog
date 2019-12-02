@@ -12,6 +12,7 @@
 
 ### JavaScript基础
 
+- 2019/12/01 [作用域与闭包 - 如何处理循环的异步操作](https://github.com/logan70/Blog/issues/30)
 - 2019/11/29 [作用域与闭包 - 堆栈溢出和内存泄漏的原理及防范](https://github.com/logan70/Blog/issues/29)
 - 2019/11/28 [作用域与闭包 - 闭包的实现原理和作用](https://github.com/logan70/Blog/issues/28)
 - 2019/11/27 [作用域与闭包 - this的原理以及几种不同使用场景的取值](https://github.com/logan70/Blog/issues/27)

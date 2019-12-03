@@ -12,6 +12,7 @@
 
 ### JavaScript基础
 
+- 2019/12/03 [作用域与闭包 - 了解模块化及其典型方案](https://github.com/logan70/Blog/issues/31)
 - 2019/12/01 [作用域与闭包 - 如何处理循环的异步操作](https://github.com/logan70/Blog/issues/30)
 - 2019/11/29 [作用域与闭包 - 堆栈溢出和内存泄漏的原理及防范](https://github.com/logan70/Blog/issues/29)
 - 2019/11/28 [作用域与闭包 - 闭包的实现原理和作用](https://github.com/logan70/Blog/issues/28)
@@ -50,7 +51,6 @@
 - 2018/12/13 [深入JavaScript系列（四）：彻底搞懂this](https://github.com/logan70/Blog/issues/4)
 - 2018/12/11 [深入JavaScript系列（三）：闭包](https://github.com/logan70/Blog/issues/3)
 - 2018/12/09 [深入JavaScript系列（二）：执行上下文](https://github.com/logan70/Blog/issues/2)
-- 2018/12/07 [深入JavaScript系列（一）：词法环境](https://github.com/logan70/Blog/issues/1)
 
 --------
 

@@ -12,6 +12,8 @@
 
 ### JavaScript基础
 
+- 2019/12/05 [执行机制 - JavaScript异步编程及Event Loop](https://github.com/logan70/Blog/issues/33)
+- 2019/12/03 [执行机制 - try-catch-finally执行机制](https://github.com/logan70/Blog/issues/32)
 - 2019/12/03 [作用域与闭包 - 了解模块化及其典型方案](https://github.com/logan70/Blog/issues/31)
 - 2019/12/01 [作用域与闭包 - 如何处理循环的异步操作](https://github.com/logan70/Blog/issues/30)
 - 2019/11/29 [作用域与闭包 - 堆栈溢出和内存泄漏的原理及防范](https://github.com/logan70/Blog/issues/29)
@@ -48,9 +50,6 @@
 
 - 2018/12/25 [深入JavaScript系列（六）：原型与原型链](https://github.com/logan70/Blog/issues/6)
 - 2018/12/24 [深入JavaScript系列（五）：JS与内存](https://github.com/logan70/Blog/issues/5)
-- 2018/12/13 [深入JavaScript系列（四）：彻底搞懂this](https://github.com/logan70/Blog/issues/4)
-- 2018/12/11 [深入JavaScript系列（三）：闭包](https://github.com/logan70/Blog/issues/3)
-- 2018/12/09 [深入JavaScript系列（二）：执行上下文](https://github.com/logan70/Blog/issues/2)
 
 --------
 

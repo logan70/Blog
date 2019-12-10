@@ -12,6 +12,7 @@
 
 ### JavaScript基础
 
+- 2019/12/10 [执行机制 - 宏任务和微任务分别有哪些](https://github.com/logan70/Blog/issues/34)
 - 2019/12/05 [执行机制 - JavaScript异步编程及Event Loop](https://github.com/logan70/Blog/issues/33)
 - 2019/12/03 [执行机制 - try-catch-finally执行机制](https://github.com/logan70/Blog/issues/32)
 - 2019/12/03 [作用域与闭包 - 了解模块化及其典型方案](https://github.com/logan70/Blog/issues/31)

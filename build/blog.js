@@ -4,9 +4,17 @@ const { repoConfig, seriesOrder } = require('./config')
 
 exports.octokit = new Octokit()
 
-exports.getBlogs = function getBlogs() {
-  return octokit.issues.listForRepo(repoConfig)
-    .then(({ data: blogList }) => blogList.map(formatBlogInfo))
+exports.getBlogs = async function getBlogs() {
+  let page = 1
+  let blogs = []
+  let blogsInThisPage = []
+  do {
+    blogsInThisPage = await octokit.issues.listForRepo({...repoConfig, page}).then(({ data }) => data.map(formatBlogInfo))
+    blogs = [...blogs, ...blogsInThisPage]
+    page++
+  } while (blogsInThisPage.length >= repoConfig.per_page);
+
+  return blogs
 }
 
 exports.classifyBlogs = function classifyBlogs(blogs) {

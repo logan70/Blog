@@ -5,6 +5,7 @@ exports.repoConfig = {
   owner: user,
   repo: 'Blog',
   creator: user,
+  per_page: 100,
 }
 
 exports.seriesOrder = [

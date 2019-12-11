@@ -8,6 +8,12 @@
 
 --------
 
+## 外文翻译
+
+- 2019/11/26 [[译] 图解Event Loop](https://github.com/logan70/Blog/issues/25)
+
+--------
+
 ## 前端知识体系
 
 ### JavaScript基础
@@ -42,15 +48,14 @@
 
 --------
 
-## 外文翻译
-
-- 2019/11/26 [[译] 图解Event Loop](https://github.com/logan70/Blog/issues/25)
-
---------
-
 ## 深入JavaScript系列
 
 - 2018/12/25 [深入JavaScript系列（六）：原型与原型链](https://github.com/logan70/Blog/issues/6)
+- 2018/12/24 [深入JavaScript系列（五）：JS与内存](https://github.com/logan70/Blog/issues/5)
+- 2018/12/13 [深入JavaScript系列（四）：彻底搞懂this](https://github.com/logan70/Blog/issues/4)
+- 2018/12/11 [深入JavaScript系列（三）：闭包](https://github.com/logan70/Blog/issues/3)
+- 2018/12/09 [深入JavaScript系列（二）：执行上下文](https://github.com/logan70/Blog/issues/2)
+- 2018/12/07 [深入JavaScript系列（一）：词法环境](https://github.com/logan70/Blog/issues/1)
 
 --------
 

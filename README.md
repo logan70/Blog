@@ -12,6 +12,7 @@
 
 ### JavaScript基础
 
+- 2019/12/11 [执行机制 - 复杂异步嵌套逻辑分析](https://github.com/logan70/Blog/issues/35)
 - 2019/12/10 [执行机制 - 宏任务和微任务分别有哪些](https://github.com/logan70/Blog/issues/34)
 - 2019/12/05 [执行机制 - JavaScript异步编程及Event Loop](https://github.com/logan70/Blog/issues/33)
 - 2019/12/03 [执行机制 - try-catch-finally执行机制](https://github.com/logan70/Blog/issues/32)
@@ -50,7 +51,6 @@
 ## 深入JavaScript系列
 
 - 2018/12/25 [深入JavaScript系列（六）：原型与原型链](https://github.com/logan70/Blog/issues/6)
-- 2018/12/24 [深入JavaScript系列（五）：JS与内存](https://github.com/logan70/Blog/issues/5)
 
 --------
 

@@ -18,6 +18,7 @@
 
 ### JavaScript基础
 
+- 2019/12/18 [语法和API - 实现数组方法（下）](https://github.com/logan70/Blog/issues/42)
 - 2019/12/17 [语法和API - 实现数组方法（上）](https://github.com/logan70/Blog/issues/41)
 - 2019/12/16 [语法和API - 彻底搞懂数组reduce方法](https://github.com/logan70/Blog/issues/40)
 - 2019/12/15 [语法和API - 理解ECMAScript和JavaScript的关系](https://github.com/logan70/Blog/issues/39)

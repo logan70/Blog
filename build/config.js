@@ -10,6 +10,10 @@ exports.repoConfig = {
 
 exports.seriesOrder = [
   {
+    series: '实战系列',
+    subSeriesArr: []
+  },
+  {
     series: '外文翻译',
     subSeriesArr: []
   },
@@ -21,10 +25,6 @@ exports.seriesOrder = [
   },
   {
     series: '深入JavaScript系列',
-    subSeriesArr: []
-  },
-  {
-    series: '实战系列',
     subSeriesArr: []
   },
 ]

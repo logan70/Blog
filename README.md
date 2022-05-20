@@ -8,6 +8,12 @@
 
 --------
 
+## 实战系列
+
+- 2019/03/03 [从零到一开发你的专属JavaScript库](https://github.com/logan70/Blog/issues/7)
+
+--------
+
 ## 外文翻译
 
 - 2019/11/26 [[译] 图解Event Loop](https://github.com/logan70/Blog/issues/25)
@@ -18,6 +24,7 @@
 
 ### JavaScript基础
 
+- 2019/12/24 [语法和API - 手写Promise](https://github.com/logan70/Blog/issues/43)
 - 2019/12/18 [语法和API - 实现数组方法（下）](https://github.com/logan70/Blog/issues/42)
 - 2019/12/17 [语法和API - 实现数组方法（上）](https://github.com/logan70/Blog/issues/41)
 - 2019/12/16 [语法和API - 彻底搞懂数组reduce方法](https://github.com/logan70/Blog/issues/40)
@@ -63,9 +70,3 @@
 - 2018/12/11 [深入JavaScript系列（三）：闭包](https://github.com/logan70/Blog/issues/3)
 - 2018/12/09 [深入JavaScript系列（二）：执行上下文](https://github.com/logan70/Blog/issues/2)
 - 2018/12/07 [深入JavaScript系列（一）：词法环境](https://github.com/logan70/Blog/issues/1)
-
---------
-
-## 实战系列
-
-- 2019/03/03 [从零到一开发你的专属JavaScript库](https://github.com/logan70/Blog/issues/7)
